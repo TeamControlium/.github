@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" width="1600" height="400">
+  <rect width="1600" height="400" rx="28" fill="#0F172A"/>
+  <g transform="translate(64 44) scale(0.609)">
+    <g transform="translate(256 256) scale(1.35) translate(-256 -256)">
+      <rect x="96" y="96" width="320" height="320" rx="40" fill="none" stroke="#2E78A6" stroke-width="32"/>
+      <rect x="196" y="196" width="184" height="184" rx="28" fill="none" stroke="#38BDF8" stroke-width="28"/>
+      <rect x="254" y="254" width="98" height="98" rx="19.6" fill="#22C55E"/>
+      <polyline points="279.5,305 296.1,320.6 326.5,287.3" fill="none" stroke="#0F172A" stroke-width="12.74" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <text x="440" y="205" font-family="Inter Display" font-weight="700" font-size="132" fill="#F8FAFC" letter-spacing="-2">TeamControlium</text>
+  <text x="444" y="270" font-family="Inter" font-weight="400" font-size="40" fill="#CBD5E1">Test automation frameworks &amp; tooling</text>
+  <text x="444" y="328" font-family="Inter" font-weight="500" font-size="30" fill="#38BDF8" letter-spacing="1">Controlium for Node.js / TypeScript  ·  legacy .NET / Java</text>
+</svg>
