@@ -6,15 +6,15 @@ Test automation tooling. Current development: **Controlium** — Node.js/TypeScr
 
 | Repo | Purpose |
 |---|---|
-| [Framework.nodejs](https://github.com/TeamControlium/Framework.nodejs) | Core framework (`@controlium/framework`). Tooling-agnostic; component-harness based; WebDriver-protocol drop-in |
-| [Cucumber.nodejs](https://github.com/TeamControlium/Cucumber.nodejs) | Cucumber-JS driver for `@controlium/framework`; step definitions supplied, none to write |
-| [Utilities.nodejs](https://github.com/TeamControlium/Utilities.nodejs) | Low-level TypeScript utilities for test automation |
+| [Framework.nodejs](https://github.com/TeamControlium/Framework.nodejs) | Tooling-agnostic general framework providing general functionality for building of Test Suites validating local/remote API-Based, Browser-based and standalone applications and/or systems. |
+| [Cucumber.nodejs](https://github.com/TeamControlium/Cucumber.nodejs) | Cucumber-JS driver, for use with `@controlium/framework`, providing step-definitions and hooks needed to access functionality provided by Framework|
+| [Utilities.nodejs](https://github.com/TeamControlium/Utilities.nodejs) | Low-level test automation oriented utilities, used extensively by TeamControlium Node.js Framework and tooling drivers |
 
 Status: active development.
 
 ## Legacy — .NET (C#)
 
-Not maintained. Retained for reference and existing NuGet consumers.
+Not maintained. Retained for reference and existing NuGet consumers. Original framework that started the TeamControlium journey, still used by some Test Suites but no longer actively maintained.  Yet.
 
 | Repo | Purpose |
 |---|---|
@@ -26,20 +26,15 @@ Not maintained. Retained for reference and existing NuGet consumers.
 
 ## Legacy — Java
 
-Not maintained. Retained for reference and existing Maven consumers.
+Not maintained. Retained for reference and existing Maven consumers.  Translated from the Legacy .NET framework.  Used by some legacy Test Suites but no longer actively maintained.
 
 | Repo | Purpose |
 |---|---|
-| [Controlium.java](https://github.com/TeamControlium/Controlium.java) | UI tool support code (Selenium etc.), via Maven |
+| [Controlium.java](https://github.com/TeamControlium/Controlium.java) | UI tool support code (Selenium etc.)|
 | [Utilities.java](https://github.com/TeamControlium/Utilities.java) | Test automation utilities |
 | [HTTPNonUI.java](https://github.com/TeamControlium/HTTPNonUI.java) | Non-UI HTTP endpoint testing utilities |
 
-## Other
-
-| Repo | Purpose |
-|---|---|
-| [repro-issues](https://github.com/TeamControlium/repro-issues) | Scratch repo; issue reproduction code |
 
 ---
 
-Maintainer: [Mat Walker](https://www.linkedin.com/in/mathieuwalker)
+Lead: [Mat Walker](https://www.linkedin.com/in/mathieuwalker)
