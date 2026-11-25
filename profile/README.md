@@ -1,6 +1,6 @@
-# TeamControlium
-
-Test automation tooling. Current development: **Controlium** — Node.js/TypeScript test framework for browser, API, native and integrated applications.
+<p align="center">
+  <img src="https://github.com/TeamControlium/.github/raw/main/branding/teamcontrolium-banner.svg" width="100%" alt="TeamControlium — test automation frameworks & tooling">
+</p>
 
 ## Current — Controlium (Node.js / TypeScript)
 
