@@ -4,6 +4,8 @@ Test automation tooling. Current development: **Controlium** — Node.js/TypeScr
 
 ## Current — Controlium (Node.js / TypeScript)
 
+Complete *ground-up* rewrite in Node.js/TypeScript, modelled on test frameworks delivered for recent clients — themselves derived from TeamControlium .NET/Java frameworks and delivering high-test-count reliable/robust API-Based and Browser-based AUT Test Suites.
+
 | Repo | Purpose |
 |---|---|
 | [Framework.nodejs](https://github.com/TeamControlium/Framework.nodejs) | Tooling-agnostic general framework providing general functionality for building of Test Suites validating local/remote API-Based, Browser-based and standalone applications and/or systems. |
@@ -11,7 +13,6 @@ Test automation tooling. Current development: **Controlium** — Node.js/TypeScr
 | [Utilities.nodejs](https://github.com/TeamControlium/Utilities.nodejs) | Low-level test automation oriented utilities, used extensively by TeamControlium Node.js Framework and tooling drivers |
 
 ### Status: active development (```Initial development phase```).
-Complete *ground-up* rewrite in Node.js/TypeScript, modelled on test frameworks delivered for recent clients — themselves derived from TeamControlium .NET/Java frameworks and delivering high-test-count reliable/robust API-Based and Browser-based AUT Test Suites.
 
 ## Legacy — .NET (C#)
 
@@ -25,6 +26,8 @@ Not maintained. Retained for reference and existing NuGet consumers. Original fr
 | [NonGUI.Net.Examples](https://github.com/TeamControlium/NonGUI.Net.Examples) | NonGUI.net usage examples |
 | [Database.net](https://github.com/TeamControlium/Database.net) | Database utilities |
 
+### Status: Not Maintained (```No active development```).
+
 ## Legacy — Java
 
 Not maintained. Retained for reference and existing Maven consumers.  Translated from the Legacy .NET framework.  Used by some legacy Test Suites but no longer actively maintained.
@@ -35,6 +38,7 @@ Not maintained. Retained for reference and existing Maven consumers.  Translated
 | [Utilities.java](https://github.com/TeamControlium/Utilities.java) | Test automation utilities |
 | [HTTPNonUI.java](https://github.com/TeamControlium/HTTPNonUI.java) | Non-UI HTTP endpoint testing utilities |
 
+### Status: Not Maintained (```No active development```).
 
 ---
 
