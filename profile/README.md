@@ -13,6 +13,20 @@ Complete *ground-up* rewrite in Node.js/TypeScript, modelled on test frameworks 
 | [Utilities.nodejs](https://github.com/TeamControlium/Utilities.nodejs) | Low-level test automation oriented utilities, used extensively by TeamControlium Node.js Framework and tooling drivers |
 
 ### Status: active development (```Initial development phase```).
+Current focus: vertical-slice development of core Cucumber-based framework, targeting API-based test suites.
+
+#### Roadmap
+
+1. **API testing**\
+Cucumber-js test suites providing full validation of single or grouped API-based applications under framework control, with fully test-controlled mocking/controlled-passthrough.
+3. **Browser UI testing**\
+browser automation support for test suites validating browser-based applications.  Includes fully test-controlled mocking/controlled-passthrough for standalone function regression testing if needed
+5. **AI-assisted automation**\
+provider-agnostic agentic AI integration enabling test generation, test maintenance and AUT defect tracing.  This will allow organisations/teams to utilise AI to assist in automation generation/maintenance (*assist* testers, not *replace* testers!), test-failure investigation and results analysis for reporting.
+7. **Broader tooling support**\
+additional test-tool and test-runner drivers, extending framework coverage across toolsets and integrations.
+
+(Timescales depend very much on contracts (need to earn to pay for food and a roof :joy:).  Between contracts — full steam ahead. On contract — evenings and weekends, coffee/family permitting.)
 
 ## Legacy — .NET (C#)
 
