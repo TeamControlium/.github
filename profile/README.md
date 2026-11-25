@@ -10,7 +10,8 @@ Test automation tooling. Current development: **Controlium** — Node.js/TypeScr
 | [Cucumber.nodejs](https://github.com/TeamControlium/Cucumber.nodejs) | Cucumber-JS driver, for use with `@controlium/framework`, providing step-definitions and hooks needed to access functionality provided by Framework|
 | [Utilities.nodejs](https://github.com/TeamControlium/Utilities.nodejs) | Low-level test automation oriented utilities, used extensively by TeamControlium Node.js Framework and tooling drivers |
 
-Status: active development.
+### Status: active development (```Initial development phase```).
+Complete *ground-up* rewrite in Node.js/TypeScript, modelled on test frameworks delivered for recent clients — themselves derived from TeamControlium .NET/Java frameworks and delivering high-test-count reliable/robust API-Based and Browser-based AUT Test Suites.
 
 ## Legacy — .NET (C#)
 
