@@ -24,7 +24,7 @@ browser automation support for test suites validating browser-based applications
 5. **AI-assisted automation**\
 provider-agnostic agentic AI integration enabling test generation, test maintenance and AUT defect tracing.  This will allow organisations/teams to utilise AI to assist in automation generation/maintenance (*assist* testers, not *replace* testers!), test-failure investigation and results analysis for reporting.
 7. **Broader tooling support**\
-additional test-tool and test-runner drivers, extending framework coverage across toolsets and integrations.
+additional test-tool and test-runner drivers, extending framework coverage across toolsets and integrations, including cloud hosted (such as [BrowserStack](https://www.browserstack.com))
 
 (Timescales depend very much on contracts (need to earn to pay for food and a roof :joy:).  Between contracts — full steam ahead. On contract — evenings and weekends, coffee/family permitting.)
 
